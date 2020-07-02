@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990132000367",
+    "firebase_url": "https://simple-chat-951a1.firebaseio.com",
+    "project_id": "simple-chat-951a1",
+    "storage_bucket": "simple-chat-951a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990132000367:android:f1cfe7ff0f6e29357fdf9a",
+        "android_client_info": {
+          "package_name": "com.murgescu.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990132000367-td4k1vfeoc0kglkfl0apgljd0d44a8g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murgescu.simplechat",
+            "certificate_hash": "30e7a2dca39230aa67c3fa48bdb076b23f7ee3ab"
+          }
+        },
+        {
+          "client_id": "990132000367-tijjedurmfgsibl4ggd4sf02r7ughda7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAcb10sCmHyp-4rNo56DWc5DgA-L7QoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990132000367-tijjedurmfgsibl4ggd4sf02r7ughda7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990132000367-j8jq80sgju3ce6hitu2vbglua8161ss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.murgescu.simplechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
